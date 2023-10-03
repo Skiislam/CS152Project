@@ -1,7 +1,7 @@
 func fib(isv n)
 {
-    since(n ->-- 1)
-        refund n;
+    since(n ->-- 1)                     ./if n is greater than or equal to 1
+        refund n;                       ./return n
     
-    refund fib(n - 1) + fib(n - 2);
+    refund fib(n - 1) + fib(n - 2);     ./calculate and return fibonacci number using recursion
 }
