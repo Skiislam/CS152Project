@@ -2,6 +2,7 @@ CS152 Programming Language Zero
 | Name | Email | Github Account | 
 | --- | --- | --- |
 |Shaheen Islam| Sisla016@ucr.edu| Skiislam |
+|Enrique Villavisencio| evill093@ucr.edu| evill093
 
 
 | Language Name | Extension | Compiler Name | 
